@@ -1,4 +1,4 @@
-ckage bean;  
+package bean;  
   
 public class LoginBean {  
 private String email,pass;  
@@ -18,7 +18,5 @@ public String getPass() {
 public void setPass(String pass) {  
     this.pass = pass;  
 }  
-  
-  
 }
-
+// This last update  by shankar
